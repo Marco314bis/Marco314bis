@@ -1,11 +1,10 @@
 # Hi there, I'm Digital... Cord 👋
 
 ## 🚀 About Me
-I'm a French developer passionate about crafting elegant solutions to complex problems. My playground spans multiple languages and I love exploring the intricacies of APIs.
+I'm a French developer passionate about crafting elegant solutions to complex problems. My playground spans multiple languages and I love exploring the intricacies of APIs. (definitely not written by an AI)
 
 ## 🌍 Connect With Me
-<a href="https://discord.com/users/173110521036406785"><img height="100px" src="https://discord.c99.nl/widget/theme-4/173110521036406785.png"/></a>  
-- Discord: `digitalcord`  
+- Discord: changes often, you can see it on my telegram channel https://t.me/discord_central
 - Telegram: `@digitalcord`
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@digitalcordtools)  
 - https://bio.link/digitalcord
